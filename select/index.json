@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "リコリス",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-02-14T07:49:26.859637Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リコリス",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/01_リコリス_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リコリス",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/02_リコリス_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リコリス",
+      "artist": "ChouCho",
+      "has_synced": false,
+      "path": "select/03_リコリス_ChouCho.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リコリス",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/04_リコリス_フジファブリック.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リコリス",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_リコリス_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
